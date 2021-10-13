@@ -1,0 +1,11 @@
+{
+  "web": {
+    "client_id": "722270380463-4tof3kins9ire586abi7ji1us44gf6l8.apps.googleusercontent.com",
+    "project_id": "sodium-primer-328806",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "javascript_origins": ["http://localhost:3000"]
+  }
+}
